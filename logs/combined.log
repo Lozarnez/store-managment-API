@@ -1,0 +1,18 @@
+2022-06-06 12:35:58:3558 [32minfo[39m: [32mServer is listening on port 3080[39m
+2022-06-06 12:36:33:3633 [37mdebug[39m: [37mServer is listening on port 3080[39m
+2022-06-06 12:36:42:3642 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:36:55:3655 [36mdebug[39m: [36mServer is listening on port 3080[39m
+2022-06-06 12:37:01:371 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:37:41:3741 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:37:52:3752 [31merror[39m: [31mError message[39m
+2022-06-06 12:37:52:3752 [33mwarn[39m: [33mWarning message[39m
+2022-06-06 12:37:52:3752 [32minfo[39m: [32mInfo message[39m
+2022-06-06 12:37:52:3752 [36mhttp[39m: [36mHTTP message[39m
+2022-06-06 12:37:52:3752 [34mdebug[39m: [34mDebug message[39m
+2022-06-06 12:38:07:387 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:42:55:4255 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:50:57:5057 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:51:36:5136 [34mdebug[39m: [34mServer is listening on port 3080[39m
+2022-06-06 12:51:41:5141 [36mhttp[39m: [36mGET /ping 304 - - 6.905 ms[39m
+[36m[39m
+2022-06-06 12:57:18:5718 [34mdebug[39m: [34mServer is listening on port 3080[39m
